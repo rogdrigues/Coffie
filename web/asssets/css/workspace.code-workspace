@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\WEBPROJECT"
+		},
+		{
+			"path": "..\\..\\..\\Shoppie_Project"
+		},
+		{
+			"path": "..\\..\\..\\..\\Practice with Java\\Đáp án đề PE WED201c qua các học kỳ\\Review PE WED201c Fall 2021\\PE 2021 đề 3\\source\\All\\Resource"
+		},
+		{
+			"path": "..\\..\\..\\RESPONSIVE_Testing"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test_project_band_w3s",
+		"liveServer.settings.port": 5501
+	}
+}
